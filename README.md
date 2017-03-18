@@ -1,6 +1,6 @@
 #OpenCVBinaries
 ####OpenCV Version : 3.2.0
-####This version is only for Windows. Compiled with Visual C++ 2015 64-bit
+####This version is only for Windows. Compiled with Visual C++ 2015 64-bit. Works with Visual Studio 2017 (64-bit)
 
 #Compiled Modules
 ###Main Modules
